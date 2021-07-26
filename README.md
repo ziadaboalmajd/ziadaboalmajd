@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ziadaboalmajd
-- 👀 I’m interested in html , css , javascript 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on fullstuck web development
 - 📫 How to reach me
